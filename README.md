@@ -1,7 +1,4 @@
 # qsrr
-Quantile share ratio regression
-
-Code for the paper "Quantile Share Ratio Regression"
 
 This project reports R code for implementing the methods in Farcomeni (2026) "Quantile Share Ratio Regression", Statistical Papers
 
