@@ -3,7 +3,7 @@ Quantile share ratio regression
 
 Code for the paper "Quantile Share Ratio Regression"
 
-This project reports R code for implementing the methods Farcomeni "Quantile Share Ratio Regression"
+This project reports R code for implementing the methods in Farcomeni (2026) "Quantile Share Ratio Regression", Statistical Papers
 
 The following libraries shall be installed in R before using code from this project:
 
