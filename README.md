@@ -1,5 +1,5 @@
 # qsrr
-Quantile share ration regression
+Quantile share ratio regression
 
 Code for the paper "Quantile Share Ratio Regression"
 
